@@ -7,12 +7,7 @@
 		"enabled": true,
 		"rules": {
 			"recommended": true
-		},
-    "style": {
-        "useBlockStatements": "error",
-        "useShorthandArrayType": "error",
-        "noShoutyConstants": "warn"
-      }
+		}
 	},
 	"formatter": {
 		"enabled": true,
